@@ -1,1 +1,1 @@
-const lessThanOrEqualToZero = n => n < 0;
+const lessThanOrEqualToZero = n => n <= 0;
