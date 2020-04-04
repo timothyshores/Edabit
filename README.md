@@ -1,5 +1,5 @@
 # Edabit
-My Javascript solutions to practice challenges
+My solutions to JavaScript practice challenges on edabit.com
 
 Profile: 
 https://edabit.com/user/DpsbeoaesTjMWAMzQ
